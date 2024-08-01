@@ -11,9 +11,9 @@
         <h2>Login</h2>
         <form action="login_process.php" method="post">
             <label for="username">Usuário:</label>
-            <input type="text" id="username" name="username" required>
+            <input type="text" id="username" name="usr" required>
             <label for="password">Senha:</label>
-            <input type="password" id="password" name="password" required>
+            <input type="password" id="password" name="pwd" required>
             <input type="submit" value="Entrar">
         </form>
     </div>
